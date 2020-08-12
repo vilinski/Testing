@@ -12,5 +12,5 @@ It combines all the features of Moq, AutoFixture and... Divergic.Logging.Xunit
 
 ## How to use
 
-Coming as soon as possible...
+Coming as soon as impossible...
 
